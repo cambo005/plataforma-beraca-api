@@ -1,1 +1,1 @@
-Este es el primer avance del backend
+Backend con seguridad, controladores, modelos y estruturas de datos (listas y nodos), este es para la materia de estructura de datos. Para el de análisis y diseño es este backend sin las estructuras de datos
